@@ -1,7 +1,8 @@
 # Before starting, 
 download the dataset-->https://www.kaggle.com/datasets/egeyigiterbil/cervicalcancer/data
 Extract the files to a Directory named CervicalCancer
-the file structure should look like
+the file structure should look like:
+
 -->CervicalCancer
            --> Herlev
            --> Mendeley
